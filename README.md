@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdullahKamboh
 - 👀 I’m interested in Software Engineering base projects
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Big Data & DevOps
 - 💞️ I’m looking to collaborate in new startup ideas..
 - 📫 How to reach me : Mr.abdullahkamboh@gmail.com
 
